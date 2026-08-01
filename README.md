@@ -129,9 +129,9 @@ A voice-controlled emergency assistance system designed to help users during roa
 
 ## 📫 Connect With Me
 
-💼 LinkedIn – (Add your LinkedIn link)  
+💼 LinkedIn – https://www.linkedin.com/in/janhavi-donadkar-98b892331/
 
-🧑‍💻 GitHub – https://github.com/
+🧑‍💻 GitHub – https://github.com/Janhavidonadkar2916
 
 ---
 
