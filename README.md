@@ -105,7 +105,7 @@ A robotic car controlled wirelessly through WiFi using an ESP microcontroller an
 
 ### 📡 RIS Digital Twin for 6G Smart Manufacturing
 
-> 🛰️ 🏆 **Patent Filed | Digital Twin | 6G Communication Research Project**
+> 🏆 **Patent Filed | Digital Twin | 6G Communication Research Project**
 
 A research-focused project on **Digital Twin integration for smart manufacturing and communication co-simulation in 6G contexts**, exploring the interaction between intelligent manufacturing environments, advanced wireless communication systems, and digital twin technology.
 
