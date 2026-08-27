@@ -113,11 +113,18 @@ A research-focused project on **Digital Twin integration for smart manufacturing
 
 `Digital Twin` • `6G` • `Smart Manufacturing` • `Communication Systems` • `Co-Simulation`
 
-## 📈 GitHub Activity
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janhavidonakar2916&theme=github-dark&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Janhavidonakar2916&theme=github-dark&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph"
+  />
 </p>
+
+---
 ## 🤝 Connect With Me
 
 <p>
