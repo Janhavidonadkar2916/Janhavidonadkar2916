@@ -1,138 +1,72 @@
-# Hi 👋 I'm Janhavi Donadkar
+# Hey there! 👋 I'm Janhavi
 
-🚀 AI Developer | IoT Enthusiast | Computer Science Student  
-💡 Passionate about building AI-powered systems and smart automation solutions  
-📍 India  
+### 💻 Computer Science Student | 🌐 Web Developer | 🔗 Blockchain Enthusiast
 
----
+I'm a passionate Computer Science student who enjoys building practical projects, exploring new technologies, and solving real-world problems. I enjoy learning by building and actively participate in hackathons and innovation challenges.
 
-## 🚀 About Me
-
-🎓 Computer Science Engineering Student  
-
-💻 Developing AI applications, IoT systems, and intelligent automation projects  
-
-🤖 Interested in Artificial Intelligence, Machine Learning, and Smart Systems  
-
-⚡ Love working with hardware + software integration  
-
-🌱 Constantly learning new technologies and improving my problem-solving skills  
+- 🔭 Currently working on **Blockchain-Based Secure Platform for Identity, Access Control, and Digital Asset Management**
+- 🌱 Currently exploring **Blockchain, Smart Contracts, and Web Development**
+- 💡 Interested in building technology-driven solutions for real-world problems
+- 🏆 Hackathon enthusiast and continuous learner
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Python  
-- C  
-- Embedded C  
-- 8051 Assembly  
-- SQL  
+### 💻 Languages
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning Basics  
-- Data preprocessing  
-- Dataset analysis  
-- Predictive systems  
-- AI-based recommendation systems  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
+</p>
 
-### ⚙️ Embedded Systems & IoT
-- Arduino Uno  
-- ESP modules  
-- Sensor integration  
-- Hardware–software interfacing  
-- Microcontroller programming  
+### 🌐 Web Development
 
-### 📊 Data Structures & Algorithms
-- Linked Lists (Singly, Doubly, Circular)  
-- Stack & Queue Implementation  
-- Graph Implementation (Adjacency List)  
-- DFS & BFS Algorithms  
-- Sorting Algorithms  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### 🧰 Tools & Platforms
-- Git  
-- GitHub  
-- Arduino IDE  
-- VS Code  
-- SQL environments  
+### 🔗 Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 What You'll Find Here
 
-### 🪟 Smart Window Monitoring System *(Patent Filed)*
-
-An IoT-based smart automation system that automatically monitors environmental conditions and controls window operations using sensors and microcontrollers.
-
-**Key Features**
-- Rain detection system  
-- Temperature and humidity monitoring using DHT22 sensor  
-- Motion detection using PIR sensor  
-- Vibration detection for security  
-- Automated window response system  
+- 🌐 Web Development Projects
+- 💻 JavaScript Applications
+- 🔗 Blockchain-Based Solutions
+- 🧠 Academic and Problem-Solving Projects
+- 🏆 Hackathon Projects
 
 ---
 
-### 🌾 AgriChain – Farm-to-Market Intelligence Platform
+# 📊 GitHub Stats
 
-An AI-powered agriculture intelligence system that analyzes weather data, soil health, and mandi prices to help farmers decide the best harvest time and market.
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Janhavidonadkar2916&show_icons=true&hide_border=true"
+    height="180"
+  />
+</p>
 
-**Key Features**
-- Crop harvest prediction  
-- Weather-based decision support  
-- Market price analysis  
-- AI-driven farming insights  
-
----
-
-### 🚗 WiFi Controlled Car (ESP Based)
-
-An IoT robotic car controlled through WiFi using ESP microcontroller.
-
-**Key Features**
-- Wireless control system  
-- ESP-based communication  
-- Motor driver control  
-- Real-time directional movement  
+<p>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Janhavidonadkar2916&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
 
-### 🆘 Voice-Activated SOS Roadside Assistant
+# 🤝 Connect With Me
 
-A voice-controlled emergency assistance system designed to help users during roadside emergencies.
+<p>
+  <a href="https://github.com/Janhavidonadkar2916">
+    <img src="https://img.shields.io/badge/GitHub-Janhavidonadkar2916-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-**Key Features**
-- Voice command activation  
-- Emergency alert system  
-- Quick assistance request mechanism  
-- Hands-free operation  
-
----
-
-## 📚 Currently Learning
-
-- Advanced Artificial Intelligence  
-- Machine Learning Algorithms  
-- Intelligent IoT Systems  
-- Data Structures & Algorithms  
-
----
-
-## 🏆 Achievements
-
-📜 Patent Filed: Smart Window Monitoring System  
-
-🚀 Built multiple AI and IoT based real-world projects  
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn – https://www.linkedin.com/in/janhavi-donadkar-98b892331/
-
-🧑‍💻 GitHub – https://github.com/Janhavidonadkar2916
-
----
-
-⭐ If you like my projects, feel free to star the repositories!
+### ⭐ Feel free to explore my repositories!
