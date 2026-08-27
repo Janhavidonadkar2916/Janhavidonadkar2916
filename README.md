@@ -13,53 +13,52 @@ I'm a passionate Computer Science student who enjoys building practical projects
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-FFFFFF?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![8051 Assembly](https://img.shields.io/badge/8051%20Assembly-FFFFFF?style=for-the-badge&logoColor=333333)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-F5F5F5?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-F5F5F5?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-F5F5F5?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-F5F5F5?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![8051 Assembly](https://img.shields.io/badge/8051%20Assembly-F5F5F5?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### 🌐 Development
 
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🧠 Artificial Intelligence & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFFFFF?style=for-the-badge&logoColor=333333)
-![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=4D77CF)
+![Python](https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=python&logoColor=3776AB)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F5F5F5?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-F5F5F5?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F5F5F5?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-F5F5F5?style=for-the-badge&logo=numpy&logoColor=013243)
 
 ### ⚙️ Embedded Systems & IoT
 
-![Arduino](https://img.shields.io/badge/Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=00979D)
-![ESP](https://img.shields.io/badge/ESP-FFFFFF?style=for-the-badge&logo=espressif&logoColor=E7352C)
-![Sensors](https://img.shields.io/badge/Sensors-FFFFFF?style=for-the-badge&logoColor=00979D)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-FFFFFF?style=for-the-badge&logoColor=333333)
+![Arduino](https://img.shields.io/badge/Arduino-F5F5F5?style=for-the-badge&logo=arduino&logoColor=00979D)
+![ESP](https://img.shields.io/badge/ESP%20Modules-F5F5F5?style=for-the-badge&logo=espressif&logoColor=E7352C)
+![Sensors](https://img.shields.io/badge/Sensors-F5F5F5?style=for-the-badge)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-F5F5F5?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-FFFFFF?style=for-the-badge&logo=arduino&logoColor=00979D)
-![VS Code](https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![SQL Environments](https://img.shields.io/badge/SQL%20Environments-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-F5F5F5?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-F5F5F5?style=for-the-badge&logo=arduino&logoColor=00979D)
+![VS Code](https://img.shields.io/badge/VS%20Code-F5F5F5?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![SQL Environments](https://img.shields.io/badge/SQL%20Environments-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 ### 🚀 Currently Exploring
 
-![Blockchain](https://img.shields.io/badge/Blockchain-FFFFFF?style=for-the-badge&logo=blockchaindotcom&logoColor=3861FB)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-FFFFFF?style=for-the-badge&logoColor=333333)
-![Solidity](https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=363636)
-
+![Blockchain](https://img.shields.io/badge/Blockchain-F5F5F5?style=for-the-badge&logo=blockchaindotcom&logoColor=121D33)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-F5F5F5?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Solidity](https://img.shields.io/badge/Solidity-F5F5F5?style=for-the-badge&logo=solidity&logoColor=363636)
 ---
 
 ## 🚀 Projects
