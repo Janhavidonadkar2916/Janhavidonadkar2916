@@ -123,6 +123,16 @@ A robotic car controlled wirelessly through WiFi using an ESP microcontroller an
 
 ---
 
+### 📡 RIS Digital Twin for 6G Smart Manufacturing
+
+> 🛰️ **Digital Twin | 6G Communication Research Project**
+
+A research-focused project on **Digital Twin integration for smart manufacturing and communication co-simulation in 6G contexts**, exploring the interaction between intelligent manufacturing environments, advanced wireless communication systems, and digital twin technology.
+
+🏭 Smart Manufacturing • 📡 6G Communication • 🪞 Digital Twin Integration • 🔄 Communication Co-Simulation • 📊 System Monitoring • 🧠 Intelligent Network Analysis
+
+`Digital Twin` • `6G` • `Smart Manufacturing` • `Communication Systems` • `Co-Simulation`
+
 <p>
   <a href="https://www.linkedin.com/in/janhavi-donadkar-98b892331">
     <img src="https://img.shields.io/badge/LinkedIn-Janhavi%20Donadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
