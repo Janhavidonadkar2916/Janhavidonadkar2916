@@ -4,10 +4,10 @@
 
 I'm a passionate Computer Science student who enjoys building practical projects, exploring new technologies, and solving real-world problems.
 
--  Exploring **Blockchain, Smart Contracts, and Web Development**
--  Interested in **AI, IoT, Embedded Systems, and Digital Twin Technologies**
--  Building projects and participating in **hackathons and innovation challenges**
--  Continuous learner with a passion for **technology and problem-solving**
+- 🌱 Exploring **Blockchain, Smart Contracts, and Web Development**
+- 🤖 Interested in **AI, IoT, Embedded Systems, and Digital Twin Technologies**
+- 🚀 Building projects and participating in **hackathons and innovation challenges**
+- 🏆 Continuous learner with a passion for **technology and problem-solving**
 
 ## 🛠️ Skills & Technologies
 
