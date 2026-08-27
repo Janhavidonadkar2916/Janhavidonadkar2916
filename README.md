@@ -16,69 +16,66 @@ I'm a passionate Computer Science student who enjoys building practical projects
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/8051%20Assembly-555555?style=for-the-badge&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img height="42" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img height="42" src="https://img.shields.io/badge/Embedded%20C-FFFFFF?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img height="42" src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img height="42" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img height="42" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img height="42" src="https://img.shields.io/badge/8051%20Assembly-FFFFFF?style=for-the-badge&logoColor=000000" />
+  <img height="42" src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
 ### 🌐 Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Web%20Development-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img height="42" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img height="42" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ### 🤖 Artificial Intelligence & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-4CAF50?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataset%20Analysis-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive%20Systems-2196F3?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Recommendation%20Systems-9C27B0?style=for-the-badge&logo=artificialintelligence&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Machine%20Learning-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img height="42" src="https://img.shields.io/badge/Data%20Preprocessing-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img height="42" src="https://img.shields.io/badge/Dataset%20Analysis-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img height="42" src="https://img.shields.io/badge/Predictive%20Systems-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img height="42" src="https://img.shields.io/badge/AI%20Recommendation%20Systems-FFFFFF?style=for-the-badge&logoColor=8B5CF6" />
 </p>
 
 ### ⚙️ Embedded Systems & IoT
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP%20Modules-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-FF9800?style=for-the-badge&logo=internetofthings&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensor%20Integration-009688?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microcontroller%20Programming-607D8B?style=for-the-badge&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Arduino-FFFFFF?style=for-the-badge&logo=arduino&logoColor=00979D" />
+  <img height="42" src="https://img.shields.io/badge/ESP%20Modules-FFFFFF?style=for-the-badge&logo=espressif&logoColor=E7352C" />
+  <img height="42" src="https://img.shields.io/badge/IoT-FFFFFF?style=for-the-badge&logoColor=FF9800" />
+  <img height="42" src="https://img.shields.io/badge/Sensor%20Integration-FFFFFF?style=for-the-badge&logoColor=009688" />
+  <img height="42" src="https://img.shields.io/badge/Microcontroller%20Programming-FFFFFF?style=for-the-badge&logoColor=333333" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img height="42" src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717" />
+  <img height="42" src="https://img.shields.io/badge/Arduino%20IDE-FFFFFF?style=for-the-badge&logo=arduino&logoColor=00979D" />
+  <img height="42" src="https://img.shields.io/badge/VS%20Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </p>
 
 ### 🚀 Currently Exploring
 
 <p>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-5C2D91?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Blockchain-FFFFFF?style=for-the-badge&logo=blockchaindotcom&logoColor=2563EB" />
+  <img height="42" src="https://img.shields.io/badge/Smart%20Contracts-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" />
+  <img height="42" src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=363636" />
 </p>
----
 
 # 🤝 Connect With Me
 
