@@ -84,38 +84,42 @@ I'm a passionate Computer Science student who enjoys building practical projects
 ## 🚀 Projects
 
 ### 🌾🔗 AgriChain
-> **🚧 Currently Building | Blockchain Project**
 
-A blockchain-based platform for **secure identity management, access control, and digital asset management**.
+> 🚧 **Currently Building | Blockchain Project**
+
+A blockchain-based platform for **secure identity management, role-based access control, digital asset management, smart contract integration, and transparent tamper-resistant records**.
 
 `Blockchain` • `Smart Contracts` • `Solidity`
 
 ---
 
 ### 🆘 Voice-Activated SOS Roadside Assistant
-> **🎙️ Smart Emergency Assistance System**
 
-A hands-free roadside emergency system activated using voice commands such as **“Help”** or **“Accident”**.
+> 🎙️ **Smart Emergency Assistance System**
 
-🎙️ Voice Activation &nbsp;•&nbsp; 🚨 Emergency Alerts &nbsp;•&nbsp; 📍 Location-Based Assistance
+A hands-free roadside emergency system activated through voice commands such as **"Help"** or **"Accident"**, designed to send emergency alerts and provide location-based assistance by connecting users with nearby emergency services.
+
+🎙️ Voice Activation • 🚨 Emergency Alerts • 📍 Location-Based Assistance • 🚑 Ambulance Support • 👮 Traffic Police Alerts • 🏥 Hospital Assistance
 
 ---
 
 ### 🪟 Smart Window Monitoring System
-> **🏆 Patent Filed | IoT & Automation**
 
-An IoT-based smart automation system that monitors environmental conditions and automatically controls window operations.
+> 🏆 **Patent Filed | IoT & Automation**
 
-🌧️ Rain Detection &nbsp;•&nbsp; 🌡️ DHT22 Monitoring &nbsp;•&nbsp; 🚶 PIR Detection &nbsp;•&nbsp; 🔐 Security
+An IoT-based smart automation system that monitors environmental conditions and automatically controls window operations using multiple sensors and microcontrollers.
+
+🌧️ Rain Detection • 🌡️ DHT22 Monitoring • 🚶 PIR Motion Detection • 📳 Vibration Detection • 🔐 Security Monitoring • 🪟 Automated Window Control
 
 ---
 
 ### 🚗 WiFi Controlled Car
-> **📡 ESP-Based IoT Project**
 
-A robotic car controlled wirelessly through WiFi using an ESP microcontroller.
+> 📡 **ESP-Based IoT Project**
 
-📶 WiFi Control &nbsp;•&nbsp; ⚙️ Motor Driver &nbsp;•&nbsp; 🧭 Directional Movement
+A robotic car controlled wirelessly through WiFi using an ESP microcontroller and motor driver system for real-time directional movement.
+
+📶 WiFi Control • 🎮 Real-Time Movement • ⬆️ Forward • ⬇️ Backward • ⬅️ Left & Right Control • ⚙️ Motor Driver • 🤖 ESP-Based Communication
 
 ---
 
