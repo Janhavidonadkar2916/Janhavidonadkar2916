@@ -1,15 +1,13 @@
 # Hey there! 👋 I'm Janhavi
 
-### 💻 Computer Science Student | 🌐 Web Developer | 🔗 Blockchain Enthusiast
+💻 **Computer Science Student** | 🌐 **Web Developer** | 🔗 **Blockchain Enthusiast**
 
-I'm a passionate Computer Science student who enjoys building practical projects, exploring new technologies, and solving real-world problems. I enjoy learning by building and actively participate in hackathons and innovation challenges.
+I'm a passionate Computer Science student who enjoys building practical projects, exploring new technologies, and solving real-world problems.
 
-- 🔭 Currently working on **Blockchain-Based Secure Platform for Identity, Access Control, and Digital Asset Management**
-- 🌱 Currently exploring **Blockchain, Smart Contracts, and Web Development**
-- 💡 Interested in building technology-driven solutions for real-world problems
-- 🏆 Hackathon enthusiast and continuous learner
-
----
+-  Exploring **Blockchain, Smart Contracts, and Web Development**
+-  Interested in **AI, IoT, Embedded Systems, and Digital Twin Technologies**
+-  Building projects and participating in **hackathons and innovation challenges**
+-  Continuous learner with a passion for **technology and problem-solving**
 
 ## 🛠️ Skills & Technologies
 
