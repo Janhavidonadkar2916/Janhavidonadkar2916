@@ -77,12 +77,18 @@ I'm a passionate Computer Science student who enjoys building practical projects
   <img height="42" src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=363636" />
 </p>
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p>
+  <a href="https://www.linkedin.com/in/janhavi-donadkar-98b892331">
+    <img src="https://img.shields.io/badge/LinkedIn-Janhavi%20Donadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
   <a href="https://github.com/Janhavidonadkar2916">
-    <img src="https://img.shields.io/badge/GitHub-Janhavidonadkar2916-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Janhavidonadkar2916-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-### ⭐ Feel free to explore my repositories!
+⭐ Feel free to connect with me and explore my repositories!
+
+
