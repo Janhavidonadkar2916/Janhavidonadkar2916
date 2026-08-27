@@ -116,27 +116,16 @@ A research-focused project on **Digital Twin integration for smart manufacturing
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Janhavidonadkar2916&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Janhavi's GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Janhavidonadkar2916&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janhavidonadkar2916&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavidonadkar2916&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janhavidonadkar2916&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janhavidonadkar2916&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 ## 🤝 Connect With Me
 
 <p>
