@@ -79,6 +79,46 @@ I'm a passionate Computer Science student who enjoys building practical projects
 
 ## 🤝 Connect With Me
 
+---
+
+## 🚀 Projects
+
+### 🌾🔗 AgriChain
+> **🚧 Currently Building | Blockchain Project**
+
+A blockchain-based platform for **secure identity management, access control, and digital asset management**.
+
+`Blockchain` • `Smart Contracts` • `Solidity`
+
+---
+
+### 🆘 Voice-Activated SOS Roadside Assistant
+> **🎙️ Smart Emergency Assistance System**
+
+A hands-free roadside emergency system activated using voice commands such as **“Help”** or **“Accident”**.
+
+🎙️ Voice Activation &nbsp;•&nbsp; 🚨 Emergency Alerts &nbsp;•&nbsp; 📍 Location-Based Assistance
+
+---
+
+### 🪟 Smart Window Monitoring System
+> **🏆 Patent Filed | IoT & Automation**
+
+An IoT-based smart automation system that monitors environmental conditions and automatically controls window operations.
+
+🌧️ Rain Detection &nbsp;•&nbsp; 🌡️ DHT22 Monitoring &nbsp;•&nbsp; 🚶 PIR Detection &nbsp;•&nbsp; 🔐 Security
+
+---
+
+### 🚗 WiFi Controlled Car
+> **📡 ESP-Based IoT Project**
+
+A robotic car controlled wirelessly through WiFi using an ESP microcontroller.
+
+📶 WiFi Control &nbsp;•&nbsp; ⚙️ Motor Driver &nbsp;•&nbsp; 🧭 Directional Movement
+
+---
+
 <p>
   <a href="https://www.linkedin.com/in/janhavi-donadkar-98b892331">
     <img src="https://img.shields.io/badge/LinkedIn-Janhavi%20Donadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
