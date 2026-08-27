@@ -133,6 +133,8 @@ A research-focused project on **Digital Twin integration for smart manufacturing
 
 `Digital Twin` • `6G` • `Smart Manufacturing` • `Communication Systems` • `Co-Simulation`
 
+## 🤝 Connect With Me
+
 <p>
   <a href="https://www.linkedin.com/in/janhavi-donadkar-98b892331">
     <img src="https://img.shields.io/badge/LinkedIn-Janhavi%20Donadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
